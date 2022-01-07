@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Mobile Solution (375px width)
 
-![](./screenshots/mobile_solution.png)
+![](./screenshots/mobile_solution.jpg)
 
 
 
 ### Desktop Solution (1440px width)
 
-![](./screenshots/desktop_solution.png)
+![](./screenshots/desktop_solution.jpg)
 
 
 
