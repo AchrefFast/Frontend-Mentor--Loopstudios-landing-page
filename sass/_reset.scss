@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+:root {
+  font-size: 16px;
+  --f-size-title: clamp(2.5rem, 8vw, 4.5rem);
+  --f-size-subtitle: clamp(1.85rem, 4.2vw, 3rem);
+  --f-size-h3: clamp(1.3rem, 5vw, 2rem);
+  --f-size-nav: 1.6rem;
+  --f-size-text: 1rem;
+  --f-size-button: 1.2rem;
+  --padding-inilne: clamp(1.5rem, 6vw, 3rem);
+}
